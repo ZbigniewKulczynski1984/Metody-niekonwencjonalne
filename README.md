@@ -1,2 +1,6 @@
 # Metody-niekonwencjonalne
-Medycyna niekonwencjonalna
+## Buit With
+- HTML
+- CSS
+## Autor
+Zbigniew Kulczyński
